@@ -41,14 +41,16 @@ Example modules:
 - JUnit 5
 
 ---
+````
 
 ## 🚀 Getting Started
 
-bash
+```bash
 git clone git@github.com:gshubhamCode/lld-examples.git
 cd lld-examples
 mvn clean install
 mvn test
+```
 
 ---
 
