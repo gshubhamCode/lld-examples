@@ -46,7 +46,7 @@ Example modules:
 ## 🚀 Getting Started
 
 ```bash
-git clone git@github.com:gshubhamCode/lld-examples.git
+git clone https://github.com/gshubhamCode/lld-examples.git
 cd lld-examples
 mvn clean install
 mvn test
