@@ -32,7 +32,7 @@ Originally designed as a response to a **real LLD interview question at Intuit**
 
 ### 1. Clone the repo
 ```bash
-git clone git@github.com:gshubhamCode/lld-examples.git
+git clone https://github.com/gshubhamCode/lld-examples.git
 cd lld-examples
 ```
 
